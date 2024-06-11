@@ -32,7 +32,7 @@ In the 42 system, a project is scored on a scale from 0 to 100. If a project has
 | [**minishell**](https://github.com/lrocca/minishell) | [![110/100](https://img.shields.io/badge/grade-110-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/minishell) | A basic shell featuring environment variables, pipes, redirection and builtins. |
 | [**libasm**](https://github.com/lrocca/libasm) | [![125/100](https://img.shields.io/badge/grade-125-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/libasm) | ... |
 | [**Philosophers**](https://github.com/lrocca/philosophers) | [![125/100](https://img.shields.io/badge/grade-125-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/philosophers) | A program recreating the dining philosophers problem as an introduction to threads and mutexes. |
-| [**ft_services**](https://github.com/lrocca/ft_services) | [![125/100](https://img.shields.io/badge/grade-125-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/ft_services) | ... |
+| [**ft_services**](https://github.com/lrocca/ft_services) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/ft_services) | ... |
 
 ### Rank 4
 | Project | Grade | Description |
