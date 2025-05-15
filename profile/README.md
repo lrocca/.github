@@ -43,11 +43,17 @@ In the 42 system, a project is scored on a scale from 0 to 100. If a project has
 | [**cpp02**](https://github.com/lrocca/cpp02) | [![80/100](https://img.shields.io/badge/grade-80-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp02) | A module about polymorphism, overloads and orthodox canonical classes in C++. |
 | [**cpp03**](https://github.com/lrocca/cpp03) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp03) | A module about inheritance between classes in C++. |
 | [**cpp04**](https://github.com/lrocca/cpp04) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp04) | A module about subtype polymorphism, abstract classes and interfaces in C++. |
+| [**NetPractice**](https://github.com/lrocca/NetPractice) | [![125/100](https://img.shields.io/badge/grade-125-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/NetPractice) | ... |
+
+### Rank 5
+| Project | Grade | Description |
+| ------- | ----- | ----------- |
 | [**cpp05**](https://github.com/lrocca/cpp05) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp05) | ... in C++. |
 | [**cpp06**](https://github.com/lrocca/cpp06) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp06) | ... in C++. |
 | [**cpp07**](https://github.com/lrocca/cpp07) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp07) | ... in C++. |
 | [**cpp08**](https://github.com/lrocca/cpp08) | [![100/100](https://img.shields.io/badge/grade-100-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp08) | ... in C++. |
-| [**NetPractice**](https://github.com/lrocca/NetPractice) | [![125/100](https://img.shields.io/badge/grade-125-5cb85c?style=for-the-badge&logo=42)](https://github.com/lrocca/NetPractice) | ... |
+| [**cpp09**](https://github.com/lrocca/cpp09) | [![not started](https://img.shields.io/badge/subscribed-000?style=for-the-badge&logo=42)](https://github.com/lrocca/cpp09) | ... in C++. |
 
+---
 
 Readme inspired by https://github.com/cschuijt42
